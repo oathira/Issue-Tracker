@@ -9,7 +9,7 @@ Build the website to create a project and also create the issue of the project
 Install my-project with npm
 
 ```bash
-  git clone https://github.com/amit-vis/Issue_Tracker.git
+  git clone https://github.com/oathira/Issue-Tracker.git
   npm install
   cd Issue_Tracker
 ```
